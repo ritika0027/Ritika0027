@@ -6,7 +6,7 @@
 – Passionate about real-world problem-solving using math & data.  
 🔍 Exploring the intersection of **statistics, optimization, and machine learning**.  
 
-##😄 Pronouns: She/Her
+## 😄 Pronouns: She/Her
 
 ## 💡 What I Do  
 📊 **Data Analysis & Statistical Modeling** – Finding patterns in data to drive decisions.  
@@ -16,15 +16,12 @@
 ## 🛠️ Tech Stack  
 🐍 Python | 📊 R | 📂 SQL | 📉 Excel | 🔬 MATLAB | 📊 Power BI & Tableau | Latex
 
----
 ## 🌱 Currently Learning 
 🚀 Advanced machine learning techniques & statistical methods in Python.  
 
----
-⚡ Fun fact:
+## ⚡ Fun fact:
 🖌️ Passionate about art & creativity | 🎭 Emotionally expressive | 💡 Ideas strike at odd hours
 🌍 Inspired by the world | 🧐 Daydreamer & innovator | 🎵 Multitalented experimenter
 
----
-📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/ritika-kumari-b38564151/)
+## 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/ritika-kumari-b38564151/)
 
