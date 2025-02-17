@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Ritika 
 📊 Data Enthusiast | 🧮 Applied Mathematics Expert | 📈 Problem Solver  `  
-<!--
+
 ## 📚 About Me  
 🎓 Master’s in Applied Mathematics – Passionate about real-world problem-solving using math & data.  
 🔍 Exploring the intersection of **statistics, optimization, and machine learning**.  
