@@ -17,10 +17,10 @@
 
 ---## 🌱 Currently Learning 
 🚀 Advanced machine learning techniques & statistical methods in Python.  
-
+-----------------------------------------------------------------------------------
 -⚡ Fun fact: ...
 🖌️ Passionate about art & creativity | 🎭 Emotionally expressive | 💡 Ideas strike at odd hours
 🌍 Inspired by the world | 🧐 Daydreamer & innovator | 🎵 Multitalented experimenter
-
-📫 How to reach me: ... Linkedin (https://www.linkedin.com/in/ritika-kumari-b38564151/)
+-------------------------------------------------------------------------------
+📫 How to reach me: ... [Linkedin] (https://www.linkedin.com/in/ritika-kumari-b38564151/)
 
