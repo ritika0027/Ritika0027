@@ -6,7 +6,8 @@
 – Passionate about real-world problem-solving using math & data.  
 🔍 Exploring the intersection of **statistics, optimization, and machine learning**.  
 
-## 😄 Pronouns: She/Her
+## 😄 Pronouns:
+She/Her
 
 ## 💡 What I Do  
 📊 **Data Analysis & Statistical Modeling** – Finding patterns in data to drive decisions.  
